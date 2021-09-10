@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.container0 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  padding-left: 75px;
+}
+
+.link-list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-right: 200px;
+}
+
+
