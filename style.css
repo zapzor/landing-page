@@ -69,12 +69,28 @@ button {
   border: 10px solid goldenrod;
 }
 
-.container3 {
+.container2 {
   display: flex;
   flex: auto;
   align-items: center;
   justify-content: center;
   gap: 48px;
+  border: 10px solid goldenrod;
+}
+
+.container3 {
+  display: flex;
+  flex: auto;
+  align-items: center;
+  justify-content: center;
+  border: 10px solid goldenrod;
+}
+
+.container4 {
+  display: flex;
+  flex: auto;
+  align-items: center;
+  justify-content: center;
   border: 10px solid goldenrod;
 }
 
@@ -85,9 +101,6 @@ button {
   width: 45%;
 }
 
-.text {
-  text-align: center;
-}
 
 .arts-container {
   display: flex;
